@@ -12,6 +12,10 @@ class XimalayaSpider(scrapy.Spider):
     allowed_domains = ['http://mobile.ximalaya.com/']
     start_urls = [
         'http://mobile.ximalaya.com/mobile/discovery/v2/category/metadata/albums?calcDimension=hot'
+        '&categoryId=33&device=android&pageId=1&pageSize=620&version=5.4.39',
+        'http://mobile.ximalaya.com/mobile/discovery/v2/category/metadata/albums?calcDimension=recent'
+        '&categoryId=33&device=android&pageId=1&pageSize=620&version=5.4.39',
+        'http://mobile.ximalaya.com/mobile/discovery/v2/category/metadata/albums?calcDimension=classic'
         '&categoryId=33&device=android&pageId=1&pageSize=620&version=5.4.39'
     ]
 
@@ -25,7 +29,7 @@ class XimalayaSpider(scrapy.Spider):
             item['displayDiscountedPrice'] = info['displayDiscountedPrice']
             AlbumId = info['albumId']
             albumurl = ('http://mobile.ximalaya.com/mobile/v1/album/track?albumId='
-                        '%s&device=android&pageId=1&pageSize=200') % AlbumId
+                        '%s&device=android&pageId=1&pageSize=1000') % AlbumId
             try:
                 code = json.loads(requests.get(albumurl, timeout=20).content)['data']['list']
                 for info in code:
@@ -38,6 +42,7 @@ class XimalayaSpider(scrapy.Spider):
                     item['LikeCount'] = info['likes']
                     item['CommentsCount'] = info['comments']
                     item['trackId'] = info['trackId']
+                    item['isFree'] = info['isFree']
                     trackId = info['trackId']
                     singleurl = 'http://www.ximalaya.com/tracks/%s.json' % trackId
                     item['category_title'] = json.loads(requests.get(singleurl).content)['category_title']
