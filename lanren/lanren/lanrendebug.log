@@ -1,0 +1,672 @@
+/home/shenping/lanren/lanren/pipelines.py:23: Warning: Unknown table 'lanrenjp'
+  self.curson.execute("DROP TABLE IF EXISTS lanrenjp")
+
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+string indices must be integers
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenspider.py", line 95, in parse
+    albumurl = 'http://www.lrts.me/book/{}'.format(id['id'])
+TypeError: string indices must be integers
+/home/shenping/lanren/lanren/pipelines.py:26: Warning: Unknown table 'lanrenfree'
+  self.curson.execute("DROP TABLE IF EXISTS lanrenfree")
+
+Error processing {'AlbumTitle': u'\u638c\u4e8b',
+ 'AlbumUrl': 'http://www.lrts.me/book/29969',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u66c9\u5922',
+ 'PlayCounts': '1999\xe4\xb8\x87',
+ 'SoundNumbers': '354',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160714 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u5eb6\u5973\u4e11\u59bb',
+ 'AlbumUrl': 'http://www.lrts.me/book/30016',
+ 'CreateTime': u'20160315',
+ 'NickName': u'\u8150\u773c\u770b\u4eba\u57fa',
+ 'PlayCounts': '1009\xe4\xb8\x87',
+ 'SoundNumbers': '111',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160505 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u59be\u672c\u8d24\u826f',
+ 'AlbumUrl': 'http://www.lrts.me/book/30023',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u82cf\u6cab\u542b',
+ 'PlayCounts': '1065\xe4\xb8\x87',
+ 'SoundNumbers': '388',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20161115 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u7ea2\u674f\u6cc4\u6625\u5149',
+ 'AlbumUrl': 'http://www.lrts.me/book/29921',
+ 'CreateTime': u'20160223',
+ 'NickName': u'\u5c0f\u8bed',
+ 'PlayCounts': '66\xe4\xb8\x87',
+ 'SoundNumbers': '149',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160402 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u836f\u9999\u5929\u4e0b\uff1a\u5ae1\u5973\u4f20\u5947',
+ 'AlbumUrl': 'http://www.lrts.me/book/29970',
+ 'CreateTime': u'20160302',
+ 'NickName': u'\u601d\u4e88\u5ae3',
+ 'PlayCounts': '1555\xe4\xb8\x87',
+ 'SoundNumbers': '110',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160302 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u5927\u4e3b\u5bb0\uff08\u4e0b\u90e8\uff09',
+ 'AlbumUrl': 'http://www.lrts.me/book/29993',
+ 'CreateTime': u'20160308',
+ 'NickName': u'\u539f\u91ce',
+ 'PlayCounts': '2480\xe4\xb8\x87',
+ 'SoundNumbers': '558',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20170320 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u81f3\u5c0a\u4e39\u5e08',
+ 'AlbumUrl': 'http://www.lrts.me/book/30025',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u51e4\u821e\u4e91\u98de',
+ 'PlayCounts': '439\xe4\xb8\x87',
+ 'SoundNumbers': '124',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20160606 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+HTTPConnectionPool(host='www.lrts.me', port=80): Max retries exceeded with url: /book/4775 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7fef0f1fcc90>: Failed to establish a new connection: [Errno 4] Interrupted system call',))
+Traceback (most recent call last):
+  File "/home/shenping/lanren/lanren/spiders/lanrenfree.py", line 83, in parse
+    code = pageinfo(albumurl)
+  File "/home/shenping/lanren/lanren/spiders/lanrenfree.py", line 14, in pageinfo
+    pagecode = requests.get(albumurl)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPConnectionPool(host='www.lrts.me', port=80): Max retries exceeded with url: /book/4775 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7fef0f1fcc90>: Failed to establish a new connection: [Errno 4] Interrupted system call',))
+Error processing {'AlbumTitle': u'\u4e0d\u6b7b\u4e0d\u706d',
+ 'AlbumUrl': 'http://www.lrts.me/book/29946',
+ 'CreateTime': u'20160304',
+ 'NickName': u'\u66f9\u5148\u68ee',
+ 'PlayCounts': '1230\xe4\xb8\x87',
+ 'SoundNumbers': '146',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20170206 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u9ec4\u91d1\u77b3',
+ 'AlbumUrl': 'http://www.lrts.me/book/1066',
+ 'CreateTime': '20120605 ',
+ 'NickName': u'\u4e00\u676f\u9999\u8317',
+ 'PlayCounts': '3\xe4\xba\xbf',
+ 'SoundNumbers': '1314',
+ 'SoundType': '\xe9\x83\xbd\xe5\xb8\x82\xe4\xbc\xa0\xe8\xaf\xb4',
+ 'UpdateTime': u'20141029'}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u76db\u4e16\u5996\u989c',
+ 'AlbumUrl': 'http://www.lrts.me/book/30010',
+ 'CreateTime': u'20160311',
+ 'NickName': u'\u9526\u745f',
+ 'PlayCounts': '909\xe4\xb8\x87',
+ 'SoundNumbers': '416',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20161122 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u7384\u6b32',
+ 'AlbumUrl': 'http://www.lrts.me/book/22101',
+ 'CreateTime': u'20150326',
+ 'NickName': u'\u8d30\u98db',
+ 'PlayCounts': '820\xe4\xb8\x87',
+ 'SoundNumbers': '173',
+ 'SoundType': '\xe7\x81\xb5\xe5\xbc\x82\xe5\xa5\x87\xe8\xb0\x88',
+ 'UpdateTime': '20150716 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u638c\u4e8b',
+ 'AlbumUrl': 'http://www.lrts.me/book/29969',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u66c9\u5922',
+ 'PlayCounts': '1999\xe4\xb8\x87',
+ 'SoundNumbers': '354',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160714 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u5eb6\u5973\u4e11\u59bb',
+ 'AlbumUrl': 'http://www.lrts.me/book/30016',
+ 'CreateTime': u'20160315',
+ 'NickName': u'\u8150\u773c\u770b\u4eba\u57fa',
+ 'PlayCounts': '1009\xe4\xb8\x87',
+ 'SoundNumbers': '111',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160505 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u59be\u672c\u8d24\u826f',
+ 'AlbumUrl': 'http://www.lrts.me/book/30023',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u82cf\u6cab\u542b',
+ 'PlayCounts': '1065\xe4\xb8\x87',
+ 'SoundNumbers': '388',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20161115 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u7ea2\u674f\u6cc4\u6625\u5149',
+ 'AlbumUrl': 'http://www.lrts.me/book/29921',
+ 'CreateTime': u'20160223',
+ 'NickName': u'\u5c0f\u8bed',
+ 'PlayCounts': '66\xe4\xb8\x87',
+ 'SoundNumbers': '149',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160402 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u836f\u9999\u5929\u4e0b\uff1a\u5ae1\u5973\u4f20\u5947',
+ 'AlbumUrl': 'http://www.lrts.me/book/29970',
+ 'CreateTime': u'20160302',
+ 'NickName': u'\u601d\u4e88\u5ae3',
+ 'PlayCounts': '1555\xe4\xb8\x87',
+ 'SoundNumbers': '110',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20160302 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u5927\u4e3b\u5bb0\uff08\u4e0b\u90e8\uff09',
+ 'AlbumUrl': 'http://www.lrts.me/book/29993',
+ 'CreateTime': u'20160308',
+ 'NickName': u'\u539f\u91ce',
+ 'PlayCounts': '2480\xe4\xb8\x87',
+ 'SoundNumbers': '558',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20170320 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u81f3\u5c0a\u4e39\u5e08',
+ 'AlbumUrl': 'http://www.lrts.me/book/30025',
+ 'CreateTime': u'20160316',
+ 'NickName': u'\u51e4\u821e\u4e91\u98de',
+ 'PlayCounts': '439\xe4\xb8\x87',
+ 'SoundNumbers': '124',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20160606 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u59be\u672c\u60ca\u534e',
+ 'AlbumUrl': 'http://www.lrts.me/book/4775',
+ 'CreateTime': '20140711 ',
+ 'NickName': u'\u4e00\u6735\u6d9f\u6f2a',
+ 'PlayCounts': '7447\xe4\xb8\x87',
+ 'SoundNumbers': '427',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': u'20141029'}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u4e0d\u6b7b\u4e0d\u706d',
+ 'AlbumUrl': 'http://www.lrts.me/book/29946',
+ 'CreateTime': u'20160304',
+ 'NickName': u'\u66f9\u5148\u68ee',
+ 'PlayCounts': '1230\xe4\xb8\x87',
+ 'SoundNumbers': '146',
+ 'SoundType': '\xe7\x8e\x84\xe5\xb9\xbb\xe5\xa5\x87\xe5\xb9\xbb',
+ 'UpdateTime': '20170206 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u9ec4\u91d1\u77b3',
+ 'AlbumUrl': 'http://www.lrts.me/book/1066',
+ 'CreateTime': '20120605 ',
+ 'NickName': u'\u4e00\u676f\u9999\u8317',
+ 'PlayCounts': '3\xe4\xba\xbf',
+ 'SoundNumbers': '1314',
+ 'SoundType': '\xe9\x83\xbd\xe5\xb8\x82\xe4\xbc\xa0\xe8\xaf\xb4',
+ 'UpdateTime': u'20141029'}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u76db\u4e16\u5996\u989c',
+ 'AlbumUrl': 'http://www.lrts.me/book/30010',
+ 'CreateTime': u'20160311',
+ 'NickName': u'\u9526\u745f',
+ 'PlayCounts': '909\xe4\xb8\x87',
+ 'SoundNumbers': '416',
+ 'SoundType': '\xe7\xa9\xbf\xe8\xb6\x8a\xe6\x9e\xb6\xe7\xa9\xba',
+ 'UpdateTime': '20161122 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u7384\u6b32',
+ 'AlbumUrl': 'http://www.lrts.me/book/22101',
+ 'CreateTime': u'20150326',
+ 'NickName': u'\u8d30\u98db',
+ 'PlayCounts': '820\xe4\xb8\x87',
+ 'SoundNumbers': '173',
+ 'SoundType': '\xe7\x81\xb5\xe5\xbc\x82\xe5\xa5\x87\xe8\xb0\x88',
+ 'UpdateTime': '20150716 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u4e61\u6751\u9b3c\u95fb',
+ 'AlbumUrl': 'http://www.lrts.me/book/7840',
+ 'CreateTime': u'20150106',
+ 'NickName': u'\u58a8\u7709',
+ 'PlayCounts': '2753\xe4\xb8\x87',
+ 'SoundNumbers': '68',
+ 'SoundType': '\xe7\x81\xb5\xe5\xbc\x82\xe5\xa5\x87\xe8\xb0\x88',
+ 'UpdateTime': '20150106 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u4e58\u9f99',
+ 'AlbumUrl': 'http://www.lrts.me/book/8770',
+ 'CreateTime': u'20150206',
+ 'NickName': u'\u8a2b\u5ff5',
+ 'PlayCounts': '2024\xe4\xb8\x87',
+ 'SoundNumbers': '91',
+ 'SoundType': '\xe5\x8f\xa4\xe4\xbb\xa3\xe8\xa8\x80\xe6\x83\x85',
+ 'UpdateTime': '20150206 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u4eba\u4e8b',
+ 'AlbumUrl': 'http://www.lrts.me/book/7776',
+ 'CreateTime': '20150126 ',
+ 'NickName': u'\u6d69\u4f26',
+ 'PlayCounts': '233\xe4\xb8\x87',
+ 'SoundNumbers': '31',
+ 'SoundType': '\xe5\x88\x91\xe4\xbe\xa6\xe6\x8e\xa8\xe7\x90\x86',
+ 'UpdateTime': u'20150128'}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u4fee\u7f57\u7279\u79cd\u5175',
+ 'AlbumUrl': 'http://www.lrts.me/book/29928',
+ 'CreateTime': u'20160311',
+ 'NickName': u'\u7b71\u535a',
+ 'PlayCounts': '5437\xe4\xb8\x87',
+ 'SoundNumbers': '219',
+ 'SoundType': '\xe9\x83\xbd\xe5\xb8\x82\xe4\xbc\xa0\xe8\xaf\xb4',
+ 'UpdateTime': '20170127 '}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
+Error processing {'AlbumTitle': u'\u53e4\u8463\u5c40\u4e2d\u5c40\uff08\u4e09\uff09\uff1a\u63a0\u5b9d\u6e05\u5355',
+ 'AlbumUrl': 'http://www.lrts.me/book/19720',
+ 'CreateTime': '20161115 ',
+ 'NickName': u'\u6d69\u4f26',
+ 'PlayCounts': '337\xe4\xb8\x87',
+ 'SoundNumbers': '36',
+ 'SoundType': '\xe6\x82\xac\xe7\x96\x91\xe6\x8e\xa2\xe9\x99\xa9',
+ 'UpdateTime': u'20161121'}
+Traceback (most recent call last):
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/twisted/internet/defer.py", line 651, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/shenping/lanren/lanren/pipelines.py", line 43, in process_item
+    num = self.curson.execute(sql1)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/shenping/venv/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'lanreninfo.lanrenfree' doesn't exist")
