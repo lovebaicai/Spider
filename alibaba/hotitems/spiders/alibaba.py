@@ -14,7 +14,7 @@ class TaobaoSpider(scrapy.Spider):
     name = "alibaba"
 
     start_urls = ['https://www.1688.com/']
-    proxies = {'http': 'https://izene-office1.8866.org:4321'}
+    proxies = {'http': 'http://host:port'}
     headers = {'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
                'Accept-Encoding':'gzip, deflate, br',
                'Connection':'close'}
