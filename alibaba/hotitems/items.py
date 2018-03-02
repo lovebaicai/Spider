@@ -7,7 +7,7 @@
 import datetime
 from scrapy import Item, Field
 
-class KoreanhotItem(Item):
+class HotItem(Item):
     title = Field() # 商品名称
     sku_url = Field() # 商品url
     img_url = Field() # 商品图片url
