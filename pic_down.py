@@ -31,7 +31,7 @@ def down_pic(dirname, pagenum, pic_nid):
             print(ir.status_code)
 
     print('{} download ok!!'.format(dirname))
-    os.chdir('/Users/nemo/Pictures/legbaby')
+    os.chdir('~/Pictures/legbaby')
 
 for i in source.xpath('/html/body/div[2]/div[3]/ul/li'):
     dirname = (i.xpath('./p[5]/a/text()')[0]).encode("iso-8859-1").decode('utf8')
