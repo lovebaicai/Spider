@@ -33,7 +33,7 @@ sys.setdefaultencoding('utf8')
 class XmlyMysqlPipeline(object):
 
     def __init__(self):
-        time1 = datetime.datetime.now().strftime('%Y-%m-%d').replace('-','')
+        time1 = datetime.datetime.now().strftime('%Y%m%d')
         self._tabname = 'sound_' + time1
         self.conn = MySQLdb.connect(host="localhost", user="root", passwd="ubuntu", db="spider", charset="utf8")
         self.cursor = self.conn.cursor()
