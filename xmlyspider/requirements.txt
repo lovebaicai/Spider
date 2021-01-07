@@ -5,7 +5,7 @@ cssselect==1.0.0
 enum34==1.1.6
 idna==2.1
 ipaddress==1.0.17
-lxml==3.6.4
+lxml==4.6.2
 parsel==1.0.3
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
