@@ -18,6 +18,6 @@ requests==2.11.1
 Scrapy==1.2.1
 service-identity==16.0.0
 six==1.10.0
-Twisted==16.4.1
+Twisted==22.1.0
 w3lib==1.15.0
 zope.interface==4.3.2
